@@ -10,5 +10,6 @@ import { ComponentContainer } from "./Container/container.component";
   imports: [ComponentContainer]
 })
 export class AppComponent {
-  title = 'NS Car Decors';
+  title = 'AngularBasics';
+  
 }
